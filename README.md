@@ -6,9 +6,9 @@ This is my GitHub account with my personal projects.
 
 My university projects can be found in my university profiles:
 * Budapest University of Technology (BME):\
-  [![@benceharomi-bme](https://img.shields.io/badge/benceharomi--bme-313131?style=for-the-badge&logo=github)](https://github.com/benceharomi-bme) 
+  [![@benceharomi-bme](https://img.shields.io/badge/benceharomi--bme-313131?style=for-the-badge&logo=github&color=grey)](https://github.com/benceharomi-bme) 
 * University of Bradford (UoB):\
-  [![@benceharomi-uob](https://img.shields.io/badge/benceharomi--uob-313131?style=for-the-badge&logo=github)](https://github.com/benceharomi-uob)
+  [![@benceharomi-uob](https://img.shields.io/badge/benceharomi--uob-313131?style=for-the-badge&logo=github&color=grey)](https://github.com/benceharomi-uob)
 
 ---
 
