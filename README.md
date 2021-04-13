@@ -14,5 +14,5 @@ My university projects can be found in my university profiles:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-313131?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/benceharomi/)
 [![GitLab](https://img.shields.io/badge/GitLab-313131?style=for-the-badge&logo=gitlab)](https://gitlab.com/benceharomi/)
-[![Gmail](https://img.shields.io/badge/Gmail-313131?style=for-the-badge&logo=gmail&logoColor=red)](mailto:bence.haromi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-313131?style=for-the-badge&logo=gmail&logoColor=red&color=00FFFFFF)](mailto:bence.haromi@gmail.com)
 
