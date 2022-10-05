@@ -1,7 +1,5 @@
 ### Hi there 🚀
 
-I'm currently studying Computer Engineering at Budapest University of Technology (BME) and working as a Software Developer at Coding Sans.
-
 This is my GitHub account with my personal projects.
 
 My university projects can be found in my university profiles:
